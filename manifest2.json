@@ -1,11 +1,22 @@
 {
   "name": "Loot System",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "manifest_version": 1,
-  "action":{
-    "title":"Loot",
-    "icon":"./icon.png",
-    "popover":"./index.html",
-    "height":600,
-    "width":400}
+
+  "description": "Sistema de loot T20 com Supabase",
+
+  "action": {
+    "title": "Loot",
+    "icon": "./icon.png",
+    "popover": "./index.html",
+    "height": 600,
+    "width": 400
+  },
+
+  "permissions": [
+    {
+      "type": "fetch",
+      "reason": "Necessário para buscar dados de loot no Supabase"
+    }
+  ]
 }
