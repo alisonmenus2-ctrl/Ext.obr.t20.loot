@@ -1,12 +1,12 @@
-{
+{{
   "name": "Loot System",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "manifest_version": 1,
 
   "action": {
     "title": "Loot",
-    "icon": "/icon.png",
-    "popover": "/index.html",
+    "icon": "./icon.png",
+    "popover": "./index.html",
     "height": 600,
     "width": 400
   }
