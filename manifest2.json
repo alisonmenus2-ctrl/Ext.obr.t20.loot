@@ -1,8 +1,7 @@
 {
   "name": "Loot System",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "manifest_version": 1,
-  "site_url": "https://alisonmenus2-ctrl.github.io/Ext.obr.t20.loot/",
   "action":{
     "title":"Loot",
     "icon":"./icon.png",
