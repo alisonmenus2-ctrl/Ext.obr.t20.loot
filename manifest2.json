@@ -1,18 +1,16 @@
 {
   "name": "Loot System",
-  "version": "1.0.45",
+  "version": "1.0.50",
   "manifest_version": 1,
   "description": "Sistema de loot T20 com Supabase integrado",
-
   "action": {
     "title": "Loot",
     "icon": "https://alisonmenus2-ctrl.github.io/Ext.obr.t20.loot/icon.png",
     "popover": "https://alisonmenus2-ctrl.github.io/Ext.obr.t20.loot/index.html"
   },
-
   "body": {
-    "width": "300px",
-    "height": "500px",
+    "width": 300,
+    "height": 500,
     "overflow": "auto"
   }
 }
