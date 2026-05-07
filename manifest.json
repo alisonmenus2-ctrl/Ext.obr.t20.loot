@@ -11,9 +11,3 @@
     "width": 400
   }
 }
-
-import OBR from "@owlbear-rodeo/sdk";
-
-OBR.onReady(() => {
-    console.log("Loot extension ready");
-});
