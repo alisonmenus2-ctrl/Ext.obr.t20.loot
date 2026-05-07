@@ -1,11 +1,11 @@
 {
   "name": "Loot System",
-  "version": "1.0.22",
-  "manifest_version": 3,
+  "version": "1.0.25",
+  "manifest_version": 1,
   "description": "Sistema de loot T20 com Supabase integrado",
   "action": {
     "default_title": "Loot",
     "default_icon": "https://alisonmenus2-ctrl.github.io/Ext.obr.t20.loot/icon.png",
-    "default_popup": "index.html"
+    "default_popover": "index.html"
   }
 }
