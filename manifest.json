@@ -1,0 +1,19 @@
+{
+  "name": "Loot System",
+  "version": "1.0.0",
+  "manifest_version": 1,
+
+  "action": {
+    "title": "Loot",
+    "icon": "/icon.png",
+    "popover": "/index.html",
+    "height": 600,
+    "width": 400
+  }
+}
+
+import OBR from "@owlbear-rodeo/sdk";
+
+OBR.onReady(() => {
+    console.log("Loot extension ready");
+});
