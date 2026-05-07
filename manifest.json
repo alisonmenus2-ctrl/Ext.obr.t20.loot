@@ -5,8 +5,8 @@
 
   "action": {
     "title": "Loot",
-    "icon": "/icon.png",
-    "popover": "/index.html",
+    "icon": "icon.png",
+    "popover": "index.html",
     "height": 600,
     "width": 400
   }
