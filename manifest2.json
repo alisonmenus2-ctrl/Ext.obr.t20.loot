@@ -1,17 +1,17 @@
 {
   "name": "Loot System",
-  "version": "1.0.12",
+  "version": "1.0.15",
   "manifest_version": 1,
 
-  "description": "Sistema de loot T20 com Supabase",
+  "description": "Sistema de loot T20 com Supabase integrado",
 
   "action": {
     "title": "Loot",
     "icon": "./icon.png",
-    "popover": "./index.html",
-    "height": 600,
-    "width": 400
-  },
-
-  "permissions": ["fetch"]
+    "popover": {
+      "url": "./index.html",
+      "width": 400,
+      "height": 600
+    }
+  }
 }
